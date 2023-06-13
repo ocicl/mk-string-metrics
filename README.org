@@ -1,0 +1,10 @@
+* mk-string-metrics
+
+Calculate various string metrics efficiently in Common Lisp (Damerau-Levenshtein, Hamming, Jaro, Jaro-Winkler, Levenshtein, etc.)
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/cbaggers/mk-string-metrics.git   |
+| commit  | 99bb2b4  |
+| systems | mk-string-metrics |
+|---------+-------------------------------------------|
+
